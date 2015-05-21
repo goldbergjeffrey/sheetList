@@ -1,0 +1,9 @@
+{
+	"name": "sheetList",
+	"description": "Provides a dropdown list for navigating sheets in a Qlik Sense Application.",
+	"icon": "list",
+	"type": "visualization",
+	"version": 1,
+	"preview": "listbox",
+	"author": ""
+}
