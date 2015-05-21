@@ -1,5 +1,5 @@
 # sheetList
-Provides a dropdown list for navigating sheets in a Qlik Sense Application.
+Provides a dropdown list to navigate between sheets in a Qlik Sense Application.
 
 Uses the Qlik Sense Mashup API to obtain a list of sheets.
 Uses jqueryui to create the dropdown list.  
